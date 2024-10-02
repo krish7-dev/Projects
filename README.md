@@ -18,3 +18,4 @@ We would love to hear your feedback and suggestions for improvement. Feel free t
 ---
 
 Thank you for using the Chart Creator Tool!
+![image](https://github.com/user-attachments/assets/9f205940-5c47-41f5-add2-6dc1a7cae5b2)
